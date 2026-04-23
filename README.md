@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Burja03
-- 👀 I’m interested in Music, Guitar, IT, Anime and Manga
-- 🌱 I’m currently learning HTML, CSS, JS, C++ basics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Instagram: @burjacovschic
+- Currently reading "The C Programming Language" by Brian Kernighan and Dennis Ritchie
+- Using "https://www.w3schools.com/c/c_intro.php" for learning and write C scripts 
 
 <!---
 Burja03/Burja03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
