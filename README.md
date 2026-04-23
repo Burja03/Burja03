@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Burja03
-- 👀 I’m interested in Music, Guitar, IT, Anime and Manga
-- 🌱 I’m currently learning HTML, CSS, JS, C++ basics
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Music, IT, Anime, Manga, Linux and now it's coming back my coding passion
+- 🌱 I’m currently learning C basics
+- 💞️ I’m looking to collaborate on Linux Kernel
 - 📫 How to reach me Instagram: @burjacovschic
 
 <!---
